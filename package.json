@@ -1,5 +1,5 @@
 {
-  "name": "gauss-wave-func",
+  "name": "Gaussian-Wave-Packet",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://momo-shaikh.github.io/Gaussian-Wave-Packet/",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build https://momo-shaikh.github.io/Gaussian-Wave-Packet/"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
